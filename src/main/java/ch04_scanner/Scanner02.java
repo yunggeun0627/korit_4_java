@@ -27,13 +27,11 @@ public class Scanner02 {
 
         System.out.print("이름 입력 >>>");
         name = scanner.next();
-
+        System.out.print("나이를 입력 >>>> ");
+        age = scanner.nextInt();
         scanner.nextLine();
         System.out.print("주소를 입력 >>> ");
         address = scanner.nextLine();
-
-        System.out.print("나이를 입력 >>>> ");
-        age = scanner.nextInt();
 //        int age10 = age + 10;
         age10 = age + 10;
 
