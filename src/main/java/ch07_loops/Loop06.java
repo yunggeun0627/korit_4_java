@@ -19,6 +19,5 @@ public class Loop06 {
 //                System.out.print("*");              // 별이 한번에 여러 번 찍힐 수 있기 때문에 print
 //            }
 //            System.out.println();                   // 개행이 일어나는 1차 for문
-        }
     }
 }
