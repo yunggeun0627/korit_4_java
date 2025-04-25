@@ -3,6 +3,8 @@ package ch09_classes;
 public class Car {
     String color;
     int speed;
+    // 생성자를 배우면 해결되는 개념
+//    String eval2 = (speed > 100 ? "빠릅니다");
 
     // 메서드 정의
     public void drive() {
@@ -39,6 +41,6 @@ public class Car {
          각각 drive()/brake()/displayCarInfo()를 실행하시고, 콘솔창에 결과를 출력하시오.
      */
 
-
+    // Constructor
 
 }
